@@ -1,0 +1,21 @@
+.form {
+    text-align: center;
+  }
+
+  .center {
+    margin-top: 5%;
+    width: 30%;
+    padding: 15px;
+  }
+
+  .fullscreen_bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-image: url('../imagens/logo_horizontal.png');
+    background-repeat:repeat;
+}
